@@ -12,7 +12,7 @@ Our objective in this analysis is to design and execute a cryptocurrency project
 
 ### KaseiCoin Contract:
 The KaseiCoin contract is meticulously crafted, inheriting crucial functionality from OpenZeppelin's ERC20, ERC20Detailed, and ERC20Mintable contracts. These foundation contracts lay the groundwork for establishing an ERC-20 compliant token. The constructor is responsible for initializing the token's particulars. Below is a snapshot demonstrating the successful compilation of the KaseiCoin contract:
-![KaseiCoin contract](https://github.com/Narimanhx/ASSIGNMENT15--10-16/assets/132794052/1e93e2f8-d607-4fca-ae6f-14ffabdd9e41)
+![KaseiCoin contract](https://github.com/Narimanhx/ASSIGNMENT15--10-16/assets/132794052/6e113ad1-f97c-48ae-b654-51f341bbfa07)
 
 ### KaseiCoinCrowdsale Contract:
 The KaseiCoinCrowdsale contract, an offspring of OpenZeppelin's Crowdsale and MintedCrowdsale, manages the sale of KaseiCoin during the crowdsale phase. It plays a pivotal role in the distribution of tokens. The screenshot below confirms the successful compilation of the KaseiCoinCrowdsale contract:
